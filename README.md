@@ -1,3 +1,3 @@
 # Rosmontis
-Rosmontis机器人的仓库
-test
+Rosmontis机器人
+基于nonebot2&saya&zerobot的miraibot
