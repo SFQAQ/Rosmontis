@@ -1,11 +1,7 @@
 <h1 id="h1-">Rosmontis机器人</h1>
 <hr>
-<h2 id="-">文本样式</h2>
+<h2 id="-">Rosmontis基于什么？</h2>
 <p><strong>This is bold text</strong></p>
-<p><strong>This is bold text</strong></p>
-<p><em>This is italic text</em></p>
-<p><em>This is italic text</em></p>
-<p><del>Strikethrough</del></p>
 <h2 id="-">列表</h2>
 <p>无序</p>
 <ul>
