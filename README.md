@@ -1,7 +1,7 @@
 <h1 id="h1-">Rosmontis机器人</h1>
 <hr>
 <h2 id="-">Rosmontis基于什么？</h2>
-<p><strong>NoneBot ZeroBot  </strong></p>
+<p><strong>NoneBot ZeroBot Saya的Miraibot</strong></p>
 <h2 id="-">列表</h2>
 <p>有序</p>
 <ol>
