@@ -3,7 +3,7 @@
 <h2 id="-">Rosmontis基于什么？</h2>
 <p><strong>NoneBot ZeroBot Saya的Miraibot</strong></p>
 <h2 id="-">功能</h2>
-![Image](https://github.com/SFQAQ/Rosmontis/blob/main/images/%E8%8F%9C%E5%8D%95.png?raw=true)
+![Image](https://github.com/SFQAQ/Rosmontis/raw/main/images/%E8%8F%9C%E5%8D%95.png?raw=true)
 <p>基于的sdk链接</p>
 <ol>
 <li>Lorem ipsum dolor sit amet</li>
