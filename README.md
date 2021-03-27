@@ -13,6 +13,16 @@
 <li>You can use sequential numbers...</li>
 <li>...or keep all the numbers as <code>1.</code></li>
 </ol>
+<p>有序</p>
+<ol>
+<li>Lorem ipsum dolor sit amet</li>
+<li>Consectetur adipiscing elit</li>
+<li>Integer molestie lorem at massa</li>
+</ol>
+<ol>
+<li>You can use sequential numbers...</li>
+<li>...or keep all the numbers as <code>1.</code></li>
+</ol>
 <h2 id="-">代码</h2>
 <p>Inline <code>code</code></p>
 <p>Indented code</p>
