@@ -2,7 +2,6 @@
 <hr>
 <h2 id="-">Rosmontis基于什么？</h2>
 <p><strong>NoneBot ZeroBot Saya的Miraibot</strong></p>
-<h2 id="-">功能列表</h2>
 <p>有序</p>
 <ol>
 <li>Lorem ipsum dolor sit amet</li>
@@ -13,7 +12,6 @@
 <li>You can use sequential numbers...</li>
 <li>...or keep all the numbers as <code>1.</code></li>
 </ol>
-<h2 id="-">基于的现有插件</h2>
 <p>有序</p>
 <ol>
 <li>Lorem ipsum dolor sit amet</li>
