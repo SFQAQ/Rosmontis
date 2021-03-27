@@ -2,7 +2,7 @@
 <hr>
 <h2 id="-">Rosmontis基于什么？</h2>
 <p><strong>NoneBot ZeroBot Saya的Miraibot</strong></p>
-<h2 id="-">列表</h2>
+<h2 id="-">功能列表</h2>
 <p>有序</p>
 <ol>
 <li>Lorem ipsum dolor sit amet</li>
