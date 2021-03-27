@@ -3,8 +3,7 @@
 <h2 id="-">Rosmontis基于什么？</h2>
 <p><strong>NoneBot ZeroBot Saya的Miraibot</strong></p>
 <h2 id="-">功能</h2>
-<div align="center">
-   <img width="160" src="images/菜单.png" alt="logo"></br>
+<img width="160" src="images/菜单.png" alt="logo"></br>
 <p>基于的sdk链接</p>
 <ol>
 <li>Lorem ipsum dolor sit amet</li>
